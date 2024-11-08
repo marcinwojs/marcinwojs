@@ -58,7 +58,21 @@
 <!-- end work project section -->
 
 <details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
+<summary><b> My programming stats :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/marcinwojs'>Todo-App</a></td>
+      <td>profile</td>
+      <td>profile</td>
+    </tr>
+  </tbody>
+</table>
 </details>
