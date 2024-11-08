@@ -34,6 +34,29 @@
 </details>
 <!-- end work experience section -->
 
+!-- start work experience section -->
+<details>
+<summary><b> My Code Experience Examples :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><b><a href="https://github.com/marcinwojs/nextjs-firebase">nextjs-firebase</a> </b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/marcinwojs/react-hook-form-with-zod-schema">react-hook-form-with-zod-schema</a> </b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/marcinwojs/drag-and-drop">drag-and-drop</a> </b></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
 <!-- start work project section -->
 <details>
 <summary><b> My Work Project :point_right:</b></summary>
