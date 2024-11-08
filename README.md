@@ -34,7 +34,7 @@
 </details>
 <!-- end work experience section -->
 
-!-- start work experience section -->
+<!-- start work experience section -->
 <details>
 <summary><b> My Code Experience Examples :point_right: </b></summary>
 <table>
