@@ -53,6 +53,9 @@
     <tr>
       <td><b><a href="https://github.com/marcinwojs/drag-and-drop">drag-and-drop</a> </b></td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/marcinwojs/darkboard">darkboard</a> </b></td>
+    </tr>
   </tbody>
 </table>
 </details>
