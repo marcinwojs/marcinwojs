@@ -1,16 +1,20 @@
-<div><h1> Marcin Wójs</h1></div>
+<div><h1>Marcin Wójs</h1></div>
 
-### Hi 👋
+### Hi there! 👋 Welcome to my GitHub!
 
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 💬 Ask me about anything, I am happy to help
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
+### About me 🧑‍💻
+
+- 💻 I specialize in **[e.g., JavaScript, Typescrit, Tailwind, React, Next.js]**.  
+- 🌱 Currently expanding my skills in **[e.g., React Native]**
+- 🤝 I enjoy sharing knowledge and collaborating in every project.
+- 🎯 My goal is to build intuitive and scalable applications.
+- 💬 Ask me about anything, I am always happy to help
+- 
 <br />
 
-## Profiles
+### Experience
 
-<!-- start work experience section -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
@@ -24,7 +28,7 @@
   </thead>
   <tbody>
      <tr>
-      <td><b><a href="https://github.com/marcinwojs">Portfolio</a> </b></td>
+      <td><b><a href="https://github.com/marcinwojs">Portfolio</a></b></td>
       <td>Junior Software Engineer</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
       <td>FEB 2024 - Present</td>
@@ -32,9 +36,7 @@
   </tbody>
 </table>
 </details>
-<!-- end work experience section -->
 
-<!-- start work experience section -->
 <details>
 <summary><b> My Code Experience Examples :point_right: </b></summary>
 <table>
@@ -56,49 +58,17 @@
     <tr>
       <td><b><a href="https://github.com/marcinwojs/darkboard">darkboard</a> </b></td>
     </tr>
-  </tbody>
-</table>
-</details>
-
-<!-- start work project section -->
-<details>
-<summary><b> My Work Project :point_right:</b></summary>
-<table>
-  <thead>
     <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/marcinwojs'>Todo-App</a></td>
-      <td>profile</td>
-      <td>profile</td>
-    </tr>
-
-  </tbody>
-</table>
-</details>
-<!-- end work project section -->
-
-<details> 
-<summary><b> My programming stats :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Skills used</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/marcinwojs'>Todo-App</a></td>
-      <td>profile</td>
-      <td>profile</td>
+      <td><b><a href="https://github.com/marcinwojs/shopify-admin-panel-app-with-extensions">shopify-admin-panel-app-with-extensions</a> </b></td>
     </tr>
   </tbody>
 </table>
 </details>
+
+
+## How to Reach Me 📫
+
+- 🌐 Website: **In Work** 
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 🐦 Twitter: [@YourHandle](#)  
