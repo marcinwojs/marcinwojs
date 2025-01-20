@@ -9,7 +9,6 @@
 - 🤝 I enjoy sharing knowledge and collaborating in every project.
 - 🎯 My goal is to build intuitive and scalable applications.
 - 💬 Ask me about anything, I am always happy to help
-- 
 <br />
 
 ### Experience
